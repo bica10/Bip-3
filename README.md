@@ -46,7 +46,7 @@ optional arguments:
 
 
 ## Logging in with Amazfit account
-Run script with your cridentials: `python huami_token.py --method amazfit --email youemail@example.com --password your_password --bt_keys`.
+Run script with your cridentials: `python huami_token.py --method amazfit --brazilruivo@gmail.com --clps0511 --bt_keys`.
 
 Sample output:
 ```bash
