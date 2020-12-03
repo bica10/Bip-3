@@ -23,7 +23,7 @@ Huami servers.
 
 ## Usage
 ```
-usage: huami_token.py [-h] -m {amazfit,xiaomi} [-e EMAIL] [-p PASSWORD] [-b]
+usage: huami_token.py [-h] -m {amazfit,xiaomi} [-e brazilruivo@gmail.com] [-p clps0511] [-b]
                       [-g] [-a] [-n]
 
 Obtain Bluetooth Auth key from Amazfit servers and download AGPS data.
